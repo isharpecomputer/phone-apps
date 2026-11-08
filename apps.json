@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-08T17:27:20Z",
+    "updated":  "2026-11-08T17:47:24Z",
     "apps":  [
                  {
                      "id":  "com.isharpe.myapps",
@@ -17,13 +17,13 @@
                      "id":  "com.isharpe.launcher",
                      "name":  "Sharp",
                      "description":  "A clean home screen: the apps you pick, then one A–Z list of everything with a letter strip to jump through it.",
-                     "versionCode":  3,
-                     "versionName":  "0.3",
-                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.3/Sharp-0.3.apk",
-                     "sha256":  "27b8d0a67806af4854e650485a39a88e20f500ce62d5d4287dee8282c19b41dd",
-                     "size":  6504675,
-                     "releaseNotes":  "Now called Sharp, with its own icon. Pick your own home-screen apps (long-press any app, or the gear \u003e Add or remove). Bolder A-Z letters. The gear under Z opens settings: reorder home apps, icons on/off, wallpaper, default home app.",
-                     "released":  "2026-11-08T17:27:20Z"
+                     "versionCode":  4,
+                     "versionName":  "0.4",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.4/Sharp-0.4.apk",
+                     "sha256":  "720f9eab1abba087c050494f6887955a023d6f78b595297e7f08a195fc881e64",
+                     "size":  6553831,
+                     "releaseNotes":  "Folders: make named groups of apps on your home screen (gear \u003e New folder, or long-press an app \u003e Add to a folder). One or two columns for the home screen (gear \u003e Layout). The app list now opens only from the letters on the right; tap anywhere that isn\u0027t an app to go back home.",
+                     "released":  "2026-11-08T17:47:24Z"
                  }
              ]
 }

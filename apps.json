@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-08T13:45:38Z",
+    "updated":  "2026-11-08T13:45:47Z",
     "apps":  [
                  {
                      "id":  "com.isharpe.launcher",
@@ -12,6 +12,18 @@
                      "size":  6486830,
                      "releaseNotes":  "First release: A-Z app list with a letter strip, clock, long-press App info / Uninstall.",
                      "released":  "2026-11-08T13:45:38Z"
+                 },
+                 {
+                     "id":  "com.isharpe.myapps",
+                     "name":  "My Apps",
+                     "description":  "Installs and updates all of iSharpe\u0027s phone apps, including itself.",
+                     "versionCode":  1,
+                     "versionName":  "0.1",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/myapps-v0.1/MyApps-0.1.apk",
+                     "sha256":  "ad1ce79b66d8bd1b2d7f8344d83cb41ecc22139c580c6c412f88c2019aba095c",
+                     "size":  6486638,
+                     "releaseNotes":  "First release.",
+                     "released":  "2026-11-08T13:45:47Z"
                  }
              ]
 }

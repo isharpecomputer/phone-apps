@@ -2,7 +2,7 @@
   Publishes one of Alan's Android phone apps to the public phone-apps repo, where the My Apps installer
   (and Obtainium) pick it up.
 
-    powershell -NoProfile -ExecutionPolicy Bypass -File C:\Claudework\PhoneApps\publish-app.ps1 -Project C:\Claudework\MinimalLauncher -Notes "What changed"
+    powershell -NoProfile -ExecutionPolicy Bypass -File C:\Claudework\PhoneApps\phone-apps\publish-app.ps1 -Project C:\Claudework\MinimalLauncher -Notes "What changed"
 
   The project needs a phoneapp.json (id, name, short, description) and versionCode/versionName in app\build.gradle.kts.
   Bump versionCode before every publish; the script refuses to publish a versionCode that isn't higher than the last one.

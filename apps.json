@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-08T20:52:42Z",
+    "updated":  "2026-11-08T21:37:51Z",
     "apps":  [
                  {
                      "id":  "com.isharpe.myapps",
@@ -17,13 +17,13 @@
                      "id":  "com.isharpe.launcher",
                      "name":  "Sharp",
                      "description":  "A clean home screen: the apps you pick, then one A–Z list of everything with a letter strip to jump through it.",
-                     "versionCode":  7,
-                     "versionName":  "0.7",
-                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.7/Sharp-0.7.apk",
-                     "sha256":  "1ddcd883aee101d13998fff05296feb69d6eb56c54049d1b278db26b626c06d0",
-                     "size":  6586655,
-                     "releaseNotes":  "Drag to rearrange: long-press a home-screen app or folder and drag it to a new place; drag bottom-bar icons to swap places.",
-                     "released":  "2026-11-08T20:52:42Z"
+                     "versionCode":  8,
+                     "versionName":  "0.8",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.8/Sharp-0.8.apk",
+                     "sha256":  "00c8e14850a21f7419e08daaff83133c8e7f54e58c8068af04685e9fca53a9e7",
+                     "size":  6586651,
+                     "releaseNotes":  "The clock and date are off the home screen. Settings, Layout, Show the clock and date brings them back.",
+                     "released":  "2026-11-08T21:37:51Z"
                  }
              ]
 }

@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-08T13:48:51Z",
+    "updated":  "2026-11-08T13:53:59Z",
     "apps":  [
                  {
                      "id":  "com.isharpe.launcher",
@@ -17,13 +17,13 @@
                      "id":  "com.isharpe.myapps",
                      "name":  "My Apps",
                      "description":  "Installs and updates all of iSharpe\u0027s phone apps, including itself.",
-                     "versionCode":  1,
-                     "versionName":  "0.1",
-                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/myapps-v0.1/MyApps-0.1.apk",
-                     "sha256":  "ad1ce79b66d8bd1b2d7f8344d83cb41ecc22139c580c6c412f88c2019aba095c",
-                     "size":  6486638,
-                     "releaseNotes":  "First release.",
-                     "released":  "2026-11-08T13:45:47Z"
+                     "versionCode":  2,
+                     "versionName":  "0.2",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/myapps-v0.2/MyApps-0.2.apk",
+                     "sha256":  "d29cd1d49ebba07b1e102c184f25d9b97d792b991a54a803afa81faa4eb98ed8",
+                     "size":  6486690,
+                     "releaseNotes":  "Updates to your apps now install without asking each time, and new versions show up right away.",
+                     "released":  "2026-11-08T13:53:59Z"
                  }
              ]
 }

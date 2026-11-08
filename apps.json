@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-08T18:19:07Z",
+    "updated":  "2026-11-08T20:44:40Z",
     "apps":  [
                  {
                      "id":  "com.isharpe.myapps",
@@ -17,13 +17,13 @@
                      "id":  "com.isharpe.launcher",
                      "name":  "Sharp",
                      "description":  "A clean home screen: the apps you pick, then one A–Z list of everything with a letter strip to jump through it.",
-                     "versionCode":  5,
-                     "versionName":  "0.5",
-                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.5/Sharp-0.5.apk",
-                     "sha256":  "56de82a5a8a3d9b60a1268755381a00b02106dbcfb5f2e1c419ef68966d638ef",
-                     "size":  6553827,
-                     "releaseNotes":  "Bottom bar: 2 to 6 apps you use all the time along the bottom of the home screen. Tap a + to pick an app, or set it up under the gear \u003e Bottom bar (number of apps, which apps, or turn it off).",
-                     "released":  "2026-11-08T18:19:07Z"
+                     "versionCode":  6,
+                     "versionName":  "0.6",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.6/Sharp-0.6.apk",
+                     "sha256":  "8e7eeb6586bf0b98f4e3e6a38abae169020f677992765b10ec792d2146797b3b",
+                     "size":  6570271,
+                     "releaseNotes":  "The A-Z list now scrolls by swiping after you jump to a letter. Home-screen widgets: gear, Add a widget; long-press a widget to resize, move or remove it.",
+                     "released":  "2026-11-08T20:44:40Z"
                  }
              ]
 }

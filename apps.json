@@ -1,1 +1,17 @@
-{ "updated": null, "apps": [] }
+{
+    "updated":  "2026-11-08T13:45:38Z",
+    "apps":  [
+                 {
+                     "id":  "com.isharpe.launcher",
+                     "name":  "Minimal Launcher",
+                     "description":  "A clean home screen: one A–Z list of your apps with a letter strip to jump through it.",
+                     "versionCode":  1,
+                     "versionName":  "0.1",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.1/MinimalLauncher-0.1.apk",
+                     "sha256":  "de344a85ab379880dde0b23cc6ac8d615283122a5fe9639a230d08c9988278bb",
+                     "size":  6486830,
+                     "releaseNotes":  "First release: A-Z app list with a letter strip, clock, long-press App info / Uninstall.",
+                     "released":  "2026-11-08T13:45:38Z"
+                 }
+             ]
+}

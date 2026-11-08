@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-08T17:47:24Z",
+    "updated":  "2026-11-08T18:19:07Z",
     "apps":  [
                  {
                      "id":  "com.isharpe.myapps",
@@ -17,13 +17,13 @@
                      "id":  "com.isharpe.launcher",
                      "name":  "Sharp",
                      "description":  "A clean home screen: the apps you pick, then one A–Z list of everything with a letter strip to jump through it.",
-                     "versionCode":  4,
-                     "versionName":  "0.4",
-                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.4/Sharp-0.4.apk",
-                     "sha256":  "720f9eab1abba087c050494f6887955a023d6f78b595297e7f08a195fc881e64",
-                     "size":  6553831,
-                     "releaseNotes":  "Folders: make named groups of apps on your home screen (gear \u003e New folder, or long-press an app \u003e Add to a folder). One or two columns for the home screen (gear \u003e Layout). The app list now opens only from the letters on the right; tap anywhere that isn\u0027t an app to go back home.",
-                     "released":  "2026-11-08T17:47:24Z"
+                     "versionCode":  5,
+                     "versionName":  "0.5",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.5/Sharp-0.5.apk",
+                     "sha256":  "56de82a5a8a3d9b60a1268755381a00b02106dbcfb5f2e1c419ef68966d638ef",
+                     "size":  6553827,
+                     "releaseNotes":  "Bottom bar: 2 to 6 apps you use all the time along the bottom of the home screen. Tap a + to pick an app, or set it up under the gear \u003e Bottom bar (number of apps, which apps, or turn it off).",
+                     "released":  "2026-11-08T18:19:07Z"
                  }
              ]
 }

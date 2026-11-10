@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-10T04:22:22Z",
+    "updated":  "2026-11-10T12:18:12Z",
     "apps":  [
                  {
                      "id":  "com.isharpe.myapps",
@@ -17,13 +17,13 @@
                      "id":  "com.isharpe.launcher",
                      "name":  "Sharp",
                      "description":  "A clean home screen: the apps you pick, then one A–Z list of everything with a letter strip to jump through it.",
-                     "versionCode":  9,
-                     "versionName":  "0.9",
-                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.9/Sharp-0.9.apk",
-                     "sha256":  "0d3dedf9e3bf1c326b3a661c39d41e40d96da8feda990600a1a5562ed0f0765c",
+                     "versionCode":  10,
+                     "versionName":  "0.10",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.10/Sharp-0.10.apk",
+                     "sha256":  "c724592834a23056dbef86720a3a00a7aa9ea612ccc82df02196ee787599e97b",
                      "size":  6586655,
-                     "releaseNotes":  "Widgets on the home screen can now be dragged like apps and folders. Also fixes a crash in Settings that could happen after uninstalling an app whose widget was on the home screen.",
-                     "released":  "2026-11-10T04:22:22Z"
+                     "releaseNotes":  "Dragging now rearranges as you go: the other items slide out of the way (push a widget up and the apps move down under it), and it stays where you let go. Also fixes widgets ignoring touches after being dragged.",
+                     "released":  "2026-11-10T12:18:12Z"
                  },
                  {
                      "id":  "com.isharpe.weather",

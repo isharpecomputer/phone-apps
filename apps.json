@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-10T18:13:23Z",
+    "updated":  "2026-11-10T18:38:33Z",
     "apps":  [
                  {
                      "id":  "com.isharpe.myapps",
@@ -17,13 +17,13 @@
                      "id":  "com.isharpe.launcher",
                      "name":  "Sharp",
                      "description":  "A clean home screen: the apps you pick, then one A–Z list of everything with a letter strip to jump through it.",
-                     "versionCode":  11,
-                     "versionName":  "0.11",
-                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.11/Sharp-0.11.apk",
-                     "sha256":  "4afeca3c4491a216783c48c15c0020c1ed49c8041c0f548e3cae76c303b99d2e",
+                     "versionCode":  12,
+                     "versionName":  "0.12",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.12/Sharp-0.12.apk",
+                     "sha256":  "f7266b7ebc8b96b504639113bd3439e3254c697f63214c37b9b02304f6da2ead",
                      "size":  6603067,
-                     "releaseNotes":  "New: a Recent folder with your most recently used apps that aren\u0027t already on the home screen (1 to 10, set in Settings). Optional Usage access makes it include apps opened from notifications and links too.",
-                     "released":  "2026-11-10T13:03:20Z"
+                     "releaseNotes":  "New: Settings \u003e Backup. Save your home screen, folders, bottom bar and layout to a file, and restore it later or on another phone or tablet. Widgets have to be added again.",
+                     "released":  "2026-11-10T18:38:33Z"
                  },
                  {
                      "id":  "com.isharpe.weather",

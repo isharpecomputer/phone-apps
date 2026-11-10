@@ -89,6 +89,8 @@ $entry = [ordered]@{
 }
 $newApps = [object[]](@($apps | Where-Object { $_.id -ne $meta.id }) + [pscustomobject]$entry | Sort-Object name)
 $newCatalog = [ordered]@{ updated = $entry.released; apps = $newApps }
+# Web apps (iSharpe Depot's "Install" buttons for the CRM and dashboard) are kept as they are; edit them by hand in apps.json.
+if ($catalog.webApps) { $newCatalog.webApps = @($catalog.webApps) }
 $json = $newCatalog | ConvertTo-Json -Depth 5
 [IO.File]::WriteAllText($catalogFile, $json + "`n", (New-Object Text.UTF8Encoding $false))
 

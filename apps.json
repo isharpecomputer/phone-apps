@@ -1,17 +1,17 @@
 {
-    "updated":  "2026-11-10T18:44:46Z",
+    "updated":  "2026-11-10T18:48:04Z",
     "apps":  [
                  {
                      "id":  "com.isharpe.myapps",
                      "name":  "iSharpe Depot",
                      "description":  "Installs and updates all of iSharpe\u0027s phone apps, including itself.",
-                     "versionCode":  3,
-                     "versionName":  "0.3",
-                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/depot-v0.3/iSharpeDepot-0.3.apk",
-                     "sha256":  "b4e79bd0807942440ec237264d3fb8b7da80027840d415a898bcc867ebbe8930",
-                     "size":  6486694,
-                     "releaseNotes":  "My Apps is now called iSharpe Depot. Nothing else changes: same app, same updates.",
-                     "released":  "2026-11-10T18:13:23Z"
+                     "versionCode":  4,
+                     "versionName":  "0.4",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/depot-v0.4/iSharpeDepot-0.4.apk",
+                     "sha256":  "ed1d14a5aabdeaddfd92fc0d911f4d72fa83375cbbc1fe85815bbd336ce9533f",
+                     "size":  6486722,
+                     "releaseNotes":  "New: Web apps. Install buttons for the iSharpe CRM and the iSharpe Dashboard (they open in Chrome, which adds them as apps). Also spots an app that was installed another way and offers to uninstall it so it can be installed here with updates.",
+                     "released":  "2026-11-10T18:48:04Z"
                  },
                  {
                      "id":  "com.isharpe.nextappt",

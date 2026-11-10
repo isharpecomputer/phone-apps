@@ -1,17 +1,17 @@
 {
-    "updated":  "2026-11-10T15:32:08Z",
+    "updated":  "2026-11-10T18:13:23Z",
     "apps":  [
                  {
                      "id":  "com.isharpe.myapps",
-                     "name":  "My Apps",
+                     "name":  "iSharpe Depot",
                      "description":  "Installs and updates all of iSharpe\u0027s phone apps, including itself.",
-                     "versionCode":  2,
-                     "versionName":  "0.2",
-                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/myapps-v0.2/MyApps-0.2.apk",
-                     "sha256":  "d29cd1d49ebba07b1e102c184f25d9b97d792b991a54a803afa81faa4eb98ed8",
-                     "size":  6486690,
-                     "releaseNotes":  "Updates to your apps now install without asking each time, and new versions show up right away.",
-                     "released":  "2026-11-08T13:53:59Z"
+                     "versionCode":  3,
+                     "versionName":  "0.3",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/depot-v0.3/iSharpeDepot-0.3.apk",
+                     "sha256":  "b4e79bd0807942440ec237264d3fb8b7da80027840d415a898bcc867ebbe8930",
+                     "size":  6486694,
+                     "releaseNotes":  "My Apps is now called iSharpe Depot. Nothing else changes: same app, same updates.",
+                     "released":  "2026-11-10T18:13:23Z"
                  },
                  {
                      "id":  "com.isharpe.launcher",

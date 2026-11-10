@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-10T12:18:12Z",
+    "updated":  "2026-11-10T13:03:20Z",
     "apps":  [
                  {
                      "id":  "com.isharpe.myapps",
@@ -17,13 +17,13 @@
                      "id":  "com.isharpe.launcher",
                      "name":  "Sharp",
                      "description":  "A clean home screen: the apps you pick, then one A–Z list of everything with a letter strip to jump through it.",
-                     "versionCode":  10,
-                     "versionName":  "0.10",
-                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.10/Sharp-0.10.apk",
-                     "sha256":  "c724592834a23056dbef86720a3a00a7aa9ea612ccc82df02196ee787599e97b",
-                     "size":  6586655,
-                     "releaseNotes":  "Dragging now rearranges as you go: the other items slide out of the way (push a widget up and the apps move down under it), and it stays where you let go. Also fixes widgets ignoring touches after being dragged.",
-                     "released":  "2026-11-10T12:18:12Z"
+                     "versionCode":  11,
+                     "versionName":  "0.11",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.11/Sharp-0.11.apk",
+                     "sha256":  "4afeca3c4491a216783c48c15c0020c1ed49c8041c0f548e3cae76c303b99d2e",
+                     "size":  6603067,
+                     "releaseNotes":  "New: a Recent folder with your most recently used apps that aren\u0027t already on the home screen (1 to 10, set in Settings). Optional Usage access makes it include apps opened from notifications and links too.",
+                     "released":  "2026-11-10T13:03:20Z"
                  },
                  {
                      "id":  "com.isharpe.weather",

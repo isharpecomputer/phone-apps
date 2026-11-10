@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-08T21:37:51Z",
+    "updated":  "2026-11-10T03:40:10Z",
     "apps":  [
                  {
                      "id":  "com.isharpe.myapps",
@@ -24,6 +24,18 @@
                      "size":  6586651,
                      "releaseNotes":  "The clock and date are off the home screen. Settings, Layout, Show the clock and date brings them back.",
                      "released":  "2026-11-08T21:37:51Z"
+                 },
+                 {
+                     "id":  "com.isharpe.weather",
+                     "name":  "Weather Line",
+                     "description":  "Weather in one line: a home-screen widget with today\u0027s high, low and chance of rain, shaded for sunrise and sunset.",
+                     "versionCode":  1,
+                     "versionName":  "0.1",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/weather-v0.1/WeatherLine-0.1.apk",
+                     "sha256":  "8bb9e787a820144b5fed33992abb52bc806c510bf6478e1975d3aa1beda3bf31",
+                     "size":  6490699,
+                     "releaseNotes":  "First version: weather app and a one-line widget with high, low and chance of rain, shaded for sunrise and sunset.",
+                     "released":  "2026-11-10T03:40:10Z"
                  }
              ]
 }

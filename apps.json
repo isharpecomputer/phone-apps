@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-10T18:48:04Z",
+    "updated":  "2026-11-10T20:35:39Z",
     "apps":  [
                  {
                      "id":  "com.isharpe.myapps",
@@ -12,6 +12,18 @@
                      "size":  6486722,
                      "releaseNotes":  "New: Web apps. Install buttons for the iSharpe CRM and the iSharpe Dashboard (they open in Chrome, which adds them as apps). Also spots an app that was installed another way and offers to uninstall it so it can be installed here with updates.",
                      "released":  "2026-11-10T18:48:04Z"
+                 },
+                 {
+                     "id":  "com.isharpe.filesafe",
+                     "name":  "iSharpe FileSafe",
+                     "description":  "Your iSharpe FileSafe on your phone: see and open your computers\u0027 files, upload files, and back up your photos automatically.",
+                     "versionCode":  1,
+                     "versionName":  "0.1",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/filesafe-v0.1/iSharpeFileSafe-0.1.apk",
+                     "sha256":  "781da42e246fb73db9191332bed4eef6281211eee72611c63e18182e71febb7b",
+                     "size":  2744271,
+                     "releaseNotes":  "First version: sign in with email and setup code, see and open your files, upload files, automatic photo backup.",
+                     "released":  "2026-11-10T20:35:39Z"
                  },
                  {
                      "id":  "com.isharpe.nextappt",

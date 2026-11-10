@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-10T13:03:20Z",
+    "updated":  "2026-11-10T14:27:16Z",
     "apps":  [
                  {
                      "id":  "com.isharpe.myapps",
@@ -29,13 +29,13 @@
                      "id":  "com.isharpe.weather",
                      "name":  "Weather Line",
                      "description":  "Weather in one line: a home-screen widget with today\u0027s high, low and chance of rain, shaded for sunrise and sunset.",
-                     "versionCode":  2,
-                     "versionName":  "0.2",
-                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/weather-v0.2/WeatherLine-0.2.apk",
-                     "sha256":  "905cc8f7a2750dd664e9b5009647fe45b5a6fb4d0a2e85968c66d6bc6a250602",
-                     "size":  6490699,
-                     "releaseNotes":  "New look: high, low and rain chance at one end (left or right, your choice), then the day as a chart: temperature line, hourly rain bars, hour labels, lavender night and light blue daytime.",
-                     "released":  "2026-11-10T04:09:27Z"
+                     "versionCode":  3,
+                     "versionName":  "0.3",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/weather-v0.3/WeatherLine-0.3.apk",
+                     "sha256":  "cac5796c23c8f08adf1942d7ec6619b4ed527b2eb45b48c73296ce71de25e40a",
+                     "size":  6507079,
+                     "releaseNotes":  "The whole bar is now the day: thin hour lines, high and low labelled on the temperature line, current temperature at the now dot, the top rain chance on its bar. Sunrise, sunset and the rain total sit just under the bar, on the widget and for every day in the app.",
+                     "released":  "2026-11-10T14:27:16Z"
                  }
              ]
 }

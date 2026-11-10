@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-10T20:35:39Z",
+    "updated":  "2026-11-10T23:01:10Z",
     "apps":  [
                  {
                      "id":  "com.isharpe.myapps",
@@ -41,13 +41,13 @@
                      "id":  "com.isharpe.launcher",
                      "name":  "Sharp",
                      "description":  "A clean home screen: the apps you pick, then one A–Z list of everything with a letter strip to jump through it.",
-                     "versionCode":  12,
-                     "versionName":  "0.12",
-                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.12/Sharp-0.12.apk",
-                     "sha256":  "f7266b7ebc8b96b504639113bd3439e3254c697f63214c37b9b02304f6da2ead",
-                     "size":  6603067,
-                     "releaseNotes":  "New: Settings \u003e Backup. Save your home screen, folders, bottom bar and layout to a file, and restore it later or on another phone or tablet. Widgets have to be added again.",
-                     "released":  "2026-11-10T18:38:33Z"
+                     "versionCode":  13,
+                     "versionName":  "0.13",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.13/Sharp-0.13.apk",
+                     "sha256":  "68d333c3999ff29d5a311d8d0cd4d46099bb073b5aa76d57a527f750c1d00fae",
+                     "size":  6619475,
+                     "releaseNotes":  "Back up your settings to storage and restore them from there, as well as to a file.",
+                     "released":  "2026-11-10T23:01:10Z"
                  },
                  {
                      "id":  "com.isharpe.weather",

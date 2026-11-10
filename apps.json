@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-10T18:38:33Z",
+    "updated":  "2026-11-10T18:44:46Z",
     "apps":  [
                  {
                      "id":  "com.isharpe.myapps",
@@ -12,6 +12,18 @@
                      "size":  6486694,
                      "releaseNotes":  "My Apps is now called iSharpe Depot. Nothing else changes: same app, same updates.",
                      "released":  "2026-11-10T18:13:23Z"
+                 },
+                 {
+                     "id":  "com.isharpe.nextappt",
+                     "name":  "Next Appointment",
+                     "description":  "Your next CRM appointment as a line at the top of the phone, with a warning an hour before. Needs a key from CRM Settings.",
+                     "versionCode":  4,
+                     "versionName":  "1.3",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/nextappt-v1.3/NextAppointment-1.3.apk",
+                     "sha256":  "6bec413be2e203432c96f54c03bc22cb3f1c059b3ed2e386f4d8cc56c076ec03",
+                     "size":  653061,
+                     "releaseNotes":  "Next Appointment is now in iSharpe Depot and signed with the same key as the other iSharpe apps. If you had it from the CRM\u0027s download button, uninstall that one first.",
+                     "released":  "2026-11-10T18:44:46Z"
                  },
                  {
                      "id":  "com.isharpe.launcher",

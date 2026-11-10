@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-10T04:09:27Z",
+    "updated":  "2026-11-10T04:22:22Z",
     "apps":  [
                  {
                      "id":  "com.isharpe.myapps",
@@ -17,13 +17,13 @@
                      "id":  "com.isharpe.launcher",
                      "name":  "Sharp",
                      "description":  "A clean home screen: the apps you pick, then one A–Z list of everything with a letter strip to jump through it.",
-                     "versionCode":  8,
-                     "versionName":  "0.8",
-                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.8/Sharp-0.8.apk",
-                     "sha256":  "00c8e14850a21f7419e08daaff83133c8e7f54e58c8068af04685e9fca53a9e7",
-                     "size":  6586651,
-                     "releaseNotes":  "The clock and date are off the home screen. Settings, Layout, Show the clock and date brings them back.",
-                     "released":  "2026-11-08T21:37:51Z"
+                     "versionCode":  9,
+                     "versionName":  "0.9",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.9/Sharp-0.9.apk",
+                     "sha256":  "0d3dedf9e3bf1c326b3a661c39d41e40d96da8feda990600a1a5562ed0f0765c",
+                     "size":  6586655,
+                     "releaseNotes":  "Widgets on the home screen can now be dragged like apps and folders. Also fixes a crash in Settings that could happen after uninstalling an app whose widget was on the home screen.",
+                     "released":  "2026-11-10T04:22:22Z"
                  },
                  {
                      "id":  "com.isharpe.weather",

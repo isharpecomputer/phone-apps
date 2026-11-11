@@ -67,13 +67,15 @@
                         "id":  "crm",
                         "name":  "iSharpe CRM",
                         "description":  "Customers, visits, appointments and billing. Works offline once installed.",
-                        "url":  "https://crm.fastpc123.com/"
+                        "url":  "https://crm.fastpc123.com/",
+                        "icon":  "https://crm.fastpc123.com/icons/icon-192.png"
                     },
                     {
                         "id":  "dashboard",
                         "name":  "iSharpe Dashboard",
                         "description":  "The SystemCare dashboard: customers\u0027 computers, licenses and check-ins.",
-                        "url":  "https://fastpc123.com/"
+                        "url":  "https://fastpc123.com/",
+                        "icon":  "https://fastpc123.com/assets/icon-192.png"
                     }
                 ]
 }

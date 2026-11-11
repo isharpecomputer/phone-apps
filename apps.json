@@ -1,6 +1,18 @@
 {
-    "updated":  "2026-11-11T13:43:18Z",
+    "updated":  "2026-11-11T14:02:48Z",
     "apps":  [
+                 {
+                     "id":  "com.isharpe.crm",
+                     "name":  "iSharpe CRM",
+                     "description":  "The iSharpe CRM as an app: customers, visits, appointments and billing, full screen.",
+                     "versionCode":  1,
+                     "versionName":  "1.0",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/crmapp-v1.0/iSharpeCRM-1.0.apk",
+                     "sha256":  "afb23a354a7c5d24b5f296806758de0fcd65d99b97cfa47849b5977b68e66a4f",
+                     "size":  438555,
+                     "releaseNotes":  "Opens the site full screen in its own window, through Chrome. Website updates show up by themselves.",
+                     "released":  "2026-11-11T14:02:48Z"
+                 },
                  {
                      "id":  "com.isharpe.myapps",
                      "name":  "iSharpe Depot",

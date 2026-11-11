@@ -1,17 +1,17 @@
 {
-    "updated":  "2026-11-11T13:34:36Z",
+    "updated":  "2026-11-11T13:34:50Z",
     "apps":  [
                  {
                      "id":  "com.isharpe.myapps",
                      "name":  "iSharpe Depot",
                      "description":  "Installs and updates all of iSharpe\u0027s phone apps, including itself.",
-                     "versionCode":  5,
-                     "versionName":  "0.5",
-                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/depot-v0.5/iSharpeDepot-0.5.apk",
-                     "sha256":  "4845d0ade25dc82d58ccdec13b5be058310339107cc119628ea30bf05b91c55a",
+                     "versionCode":  6,
+                     "versionName":  "0.6",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/depot-v0.6/iSharpeDepot-0.6.apk",
+                     "sha256":  "6eea2d4c763da94700c84fb80cec99d4968de66c52b15d8e8628b2e6c2ab3c5f",
                      "size":  6486722,
                      "releaseNotes":  "Clearer steps for installing the CRM and dashboard web apps.",
-                     "released":  "2026-11-11T13:33:43Z"
+                     "released":  "2026-11-11T13:34:50Z"
                  },
                  {
                      "id":  "com.isharpe.filesafe",

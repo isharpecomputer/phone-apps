@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-11T14:02:48Z",
+    "updated":  "2026-11-11T14:02:55Z",
     "apps":  [
                  {
                      "id":  "com.isharpe.crm",
@@ -12,6 +12,18 @@
                      "size":  438555,
                      "releaseNotes":  "Opens the site full screen in its own window, through Chrome. Website updates show up by themselves.",
                      "released":  "2026-11-11T14:02:48Z"
+                 },
+                 {
+                     "id":  "com.isharpe.dashboard",
+                     "name":  "iSharpe Dashboard",
+                     "description":  "The SystemCare dashboard as an app: customers\u0027 computers, licenses and check-ins, full screen.",
+                     "versionCode":  1,
+                     "versionName":  "1.0",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/dashapp-v1.0/iSharpeDashboard-1.0.apk",
+                     "sha256":  "befde1506944f4f83362855971ea09cae91e76f7dc0926d99786219b9d419c37",
+                     "size":  529615,
+                     "releaseNotes":  "Opens the site full screen in its own window, through Chrome. Website updates show up by themselves.",
+                     "released":  "2026-11-11T14:02:55Z"
                  },
                  {
                      "id":  "com.isharpe.myapps",

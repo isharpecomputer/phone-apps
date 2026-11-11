@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-11T13:33:43Z",
+    "updated":  "2026-11-11T13:34:36Z",
     "apps":  [
                  {
                      "id":  "com.isharpe.myapps",
@@ -41,13 +41,13 @@
                      "id":  "com.isharpe.launcher",
                      "name":  "Sharp",
                      "description":  "A clean home screen: the apps you pick, then one A–Z list of everything with a letter strip to jump through it.",
-                     "versionCode":  13,
-                     "versionName":  "0.13",
-                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.13/Sharp-0.13.apk",
-                     "sha256":  "68d333c3999ff29d5a311d8d0cd4d46099bb073b5aa76d57a527f750c1d00fae",
-                     "size":  6619475,
-                     "releaseNotes":  "Back up your settings to storage and restore them from there, as well as to a file.",
-                     "released":  "2026-11-10T23:01:10Z"
+                     "versionCode":  14,
+                     "versionName":  "0.14",
+                     "apkUrl":  "https://github.com/isharpecomputer/phone-apps/releases/download/launcher-v0.14/Sharp-0.14.apk",
+                     "sha256":  "eb3331bac6f3f1176c0e6d7b332e1ec488b2abb843714776d8bd30b5cc0d6347",
+                     "size":  6619691,
+                     "releaseNotes":  "Fixes adding web apps (the iSharpe CRM, the dashboard): Chrome\u0027s Add to Home screen now works with Sharp. They show on the home screen and in the A-Z list; long-press then Remove shortcut takes one off.",
+                     "released":  "2026-11-11T13:34:36Z"
                  },
                  {
                      "id":  "com.isharpe.weather",
